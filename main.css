@@ -99,8 +99,9 @@ ul {
 .nav__item {
   box-sizing: border-box;
   display: inline-block;
-  width: 1.5rem;
+  width: 24%;
 /*  min-height: 3rem;*/
+  padding: 1.5rem;
   text-align: center;
   line-height: 1.5rem;
 /*  margin: 2.5rem 1.25rem 0;*/
