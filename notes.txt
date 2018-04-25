@@ -1,0 +1,2 @@
+so far i've seen, flexbox can only affect the first child (first generation). No child of the child.
+that's why i have 2 containe4s: row (default -> horizontaly) and column (vertically) 
